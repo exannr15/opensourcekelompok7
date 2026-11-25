@@ -6,9 +6,10 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 7 mata kuliah Open Source.
 Menerapkan kolaborasi tim menggunakan GitHub melalui Issue Tracking, Fork, Branch, Pull Request, dan Code Review.
 
 ## Anggota Kelompok
-- Ketua: Exan Nabil Rifai
-- Anggota 2: (isi nama)
-- Anggota 3: (isi nama)
+- Anggota 1 : Exan Nabil Rifai
+- Anggota 2: Cikal fachri amanta
+- Anggota 3: Alfatir faza kesumo
+- Anggota 4: Reyhan samudera wahid
 
 ## Kegiatan
 - Membuat dan menyelesaikan Issue
